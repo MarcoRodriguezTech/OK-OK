@@ -3,4 +3,5 @@ This project aims to address the inefficiency of having to look up multiple plat
 
 ## 🎨 Design & Wireframes
 We use Canva to manage our UI/UX layouts. Please refer to the live links below to ensure you are building from the latest version:
-* **Complete Website Wireframe (Live Draft):** [Open in Canva](https://canva.link/izsvb3bn4142dve)
+* **Complete Website Wireframe:** [Open in Canva](https://canva.link/izsvb3bn4142dve)
+
